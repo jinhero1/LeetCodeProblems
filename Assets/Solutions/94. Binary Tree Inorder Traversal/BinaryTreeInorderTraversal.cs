@@ -1,8 +1,8 @@
 using System.Collections.Generic;
-using UnityEngine;
 
 namespace BinaryTreeInorderTraversal
 {
+    // Memory Usage: 40.5 MB, less than 96.36% of C# online submissions for Binary Tree Inorder Traversal.
     public class Solution
     {
         private const int ZERO = 0;
@@ -31,21 +31,6 @@ namespace BinaryTreeInorderTraversal
             }
 
             return output;
-        }
-    }
-
-    public class BinaryTreeInorderTraversal : MonoBehaviour
-    {
-        void Start()
-        {
-            //int?[] values = new int?[] { 1, null, 2, null, null, 3 }; // Example Input: root = [1,null,2,3]
-            //int?[] values = new int?[] { 3, 1, 2 };
-            int?[] values = new int?[] { 3, 1, null, null, 2 };
-            TreeNode root = BinaryTreeUtility.InsertLevelOrder(values, 0);
-
-            Solution solution = new Solution();
-            IList<int> output = solution.InorderTraversal(root);
-            DebugUtility.Log(output);
         }
     }
 }

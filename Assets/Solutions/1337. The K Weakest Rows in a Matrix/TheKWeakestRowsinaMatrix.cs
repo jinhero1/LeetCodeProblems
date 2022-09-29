@@ -1,9 +1,9 @@
 using System.Collections.Generic;
-using UnityEngine;
 
 namespace TheKWeakestRowsinaMatrix
 {
-    internal class Solution
+    // Runtime: 160 ms, faster than 94.51% of C# online submissions for The K Weakest Rows in a Matrix.
+    public class Solution
     {
         private int MAX_MAT_LENGTH = 100;
 
@@ -43,60 +43,6 @@ namespace TheKWeakestRowsinaMatrix
                     break;
                 }
             }
-        }
-    }
-
-    public class TheKWeakestRowsinaMatrix : MonoBehaviour
-    {
-        void Start()
-        {
-            /*
-            int[][] mat = new int[][]
-            {
-                new int[] { 1,1,0,0,0 },
-                new int[] { 1,1,1,1,0 },
-                new int[] { 1,0,0,0,0 },
-                new int[] { 1,1,0,0,0 },
-                new int[] { 1,1,1,1,1 }
-            };
-            int k = 3;
-            */
-            /*
-            int[][] mat = new int[][]
-            {
-                new int[] { 1,0,0,0 },
-                new int[] { 1,1,1,1 },
-                new int[] { 1,0,0,0 },
-                new int[] { 1,0,0,0 },
-            };
-            int k = 2;
-            */
-            int[][] mat = new int[][]
-            {
-                new int[] { 1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0 },
-                new int[] { 1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0 },
-                new int[] { 1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0 },
-                new int[] { 1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0 },
-                new int[] { 1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0 },
-                new int[] { 1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0 },
-                new int[] { 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0 },
-                new int[] { 1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0 },
-                new int[] { 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0 },
-                new int[] { 1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0 },
-                new int[] { 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0 },
-                new int[] { 1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0 },
-                new int[] { 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0 },
-                new int[] { 1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0 },
-                new int[] { 1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0 },
-                new int[] { 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0 },
-                new int[] { 1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0 },
-                new int[] { 1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0 },
-                new int[] { 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1 },
-            };
-            int k = 17;
-            Solution solution = new Solution();
-            int[] output = solution.KWeakestRows(mat, k);
-            DebugUtility.Log(output);
         }
     }
 }

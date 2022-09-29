@@ -1,7 +1,6 @@
-using UnityEngine;
-
 namespace RangeSumQuery_Immutable
 {
+    // Runtime: 147 ms, faster than 97.17% of C# online submissions for Range Sum Query - Immutable.
     public class NumArray
     {
         private int[] sumQueries;
@@ -41,31 +40,6 @@ namespace RangeSumQuery_Immutable
             }
 
             return _sum;
-        }
-    }
-
-    public class RangeSumQuery_Immutable : MonoBehaviour
-    {
-        void Start()
-        {
-            NumArray numArray = new NumArray(new int[] { -2, 0, 3, -5, 2, -1 });
-            int output = numArray.SumRange(0, 2);
-            Debug.Log($"Output: {output}");
-            output = numArray.SumRange(2, 5);
-            Debug.Log($"Output: {output}");
-            output = numArray.SumRange(0, 5);
-            Debug.Log($"Output: {output}");
-            /*
-            NumArray numArray = new NumArray(new int[] { -4, -5 });
-            int output = numArray.SumRange(0, 0);
-            */
-            /*
-            NumArray numArray = new NumArray(new int[] { 1, 4, -6 });
-            int output = numArray.SumRange(0, 2);
-            Debug.Log($"Output: {output}");
-            output = numArray.SumRange(0, 1);
-            Debug.Log($"Output: {output}");
-            */
         }
     }
 }

@@ -1,7 +1,7 @@
-using UnityEngine;
-
 namespace NumberofStepstoReduceaNumbertoZero
 {
+    #region RuntimeFastest
+    // Runtime: 27 ms, faster than 81.46% of C# online submissions for Number of Steps to Reduce a Number to Zero
     /*
     public class Solution
     {
@@ -21,6 +21,8 @@ namespace NumberofStepstoReduceaNumbertoZero
         }
     }
     */
+    #endregion
+    #region General
     public class Solution
     {
         private const int ZERO = 0;
@@ -28,11 +30,8 @@ namespace NumberofStepstoReduceaNumbertoZero
 
         public int NumberOfSteps(int num)
         {
-            //BitOperations
-            //BitOperations.Lea
-
             int steps = ZERO;
-            /*
+
             while (num > ZERO)
             {
                 steps++;
@@ -45,25 +44,9 @@ namespace NumberofStepstoReduceaNumbertoZero
 
                 num--;
             }
-            */
+
             return steps;
         }
     }
-
-    public class NumberofStepstoReduceaNumbertoZero : MonoBehaviour
-    {
-        void Start()
-        {
-            //int num = 14;
-            int num = 8;
-            //int num = 123;
-
-            Solution solution = new Solution();
-            int output = solution.NumberOfSteps(num);
-            Debug.Log($"Output: {output}");
-
-            int test = 14 >> 1;
-            Debug.Log($"test: {test}");
-        }
-    }
+    #endregion
 }

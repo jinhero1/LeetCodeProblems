@@ -1,7 +1,6 @@
-using UnityEngine;
-
 namespace SearchInsertPosition
 {
+    // Memory Usage: 37.6 MB, less than 86.14% of C# online submissions for Search Insert Position.
     public class Solution
     {
         private const int NOT_FOUND = -1;
@@ -45,22 +44,6 @@ namespace SearchInsertPosition
             }
 
             return NOT_FOUND;
-        }
-    }
-
-    public class SearchInsertPosition : MonoBehaviour
-    {
-        void Start()
-        {
-            int[] nums = { 1, 3, 5, 6 };
-            //int target = 5;
-            //int target = 2;
-            int target = 4;
-            //int target = 7;
-
-            Solution solution = new Solution();
-            int output = solution.SearchInsert(nums, target);
-            Debug.Log($"Output: {output}");
         }
     }
 }

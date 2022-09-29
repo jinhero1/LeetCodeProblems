@@ -1,8 +1,8 @@
 using System.Collections.Generic;
-using UnityEngine;
 
 namespace SameTree
 {
+    // Runtime: 106 ms, faster than 86.85% of C# online submissions for Same Tree
     public class Solution
     {
         private const int ZERO = 0;
@@ -45,25 +45,6 @@ namespace SameTree
             if (p.val != q.val) return false;
 
             return true;
-        }
-    }
-
-    public class SameTree : MonoBehaviour
-    {
-        void Start()
-        {
-            //int?[] pValues = new int?[] { 1, 1 };
-            //int?[] qValues = new int?[] { 1, null, 1 };
-            //int?[] pValues = new int?[] { 1, 2, 3 };
-            //int?[] qValues = new int?[] { 1, 2, 3 };
-            int?[] pValues = new int?[] { 1, 2, 1 };
-            int?[] qValues = new int?[] { 1, 1, 2 };
-            TreeNode p = BinaryTreeUtility.InsertLevelOrder(pValues, 0);
-            TreeNode q = BinaryTreeUtility.InsertLevelOrder(qValues, 0);
-
-            Solution solution = new Solution();
-            bool output = solution.IsSameTree(p, q);
-            Debug.Log($"Output: {output}");
         }
     }
 }

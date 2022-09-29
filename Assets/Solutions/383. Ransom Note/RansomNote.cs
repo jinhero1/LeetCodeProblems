@@ -1,7 +1,6 @@
-using UnityEngine;
-
 namespace RansomNote
 {
+    // Runtime: 81 ms, faster than 96.90% of C# online submissions for Ransom Note.
     public class Solution
     {
         private const char A = 'a';
@@ -23,20 +22,6 @@ namespace RansomNote
             }
 
             return true;
-        }
-    }
-
-    public class RansomNote : MonoBehaviour
-    {
-        void Start()
-        {
-            Solution solution = new Solution();
-            //bool output = solution.CanConstruct("a", "b");    // false
-            //bool output = solution.CanConstruct("aa", "ab");  // false
-            bool output = solution.CanConstruct("aa", "aab");   // true
-            //bool output = solution.CanConstruct("aab", "baa");  // true
-            //bool output = solution.CanConstruct("fffbfg", "effjfggbffjdgbjjhhdegh");  // true
-            Debug.Log($"Output: {output}");
         }
     }
 }

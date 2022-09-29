@@ -1,7 +1,6 @@
-using UnityEngine;
-
 namespace LongestPalindrome
 {
+    // Memory Usage: 34.6 MB, less than 93.29% of C# online submissions for Longest Palindrome.
     public class Solution
     {
         private const int ONE = 1;
@@ -40,21 +39,6 @@ namespace LongestPalindrome
             if (_hasOddChecked) lengthCount++;
 
             return lengthCount;
-        }
-    }
-
-    public class LongestPalindrome : MonoBehaviour
-    {
-        void Start()
-        {
-            Solution solution = new Solution();
-            //int output = solution.LongestPalindrome("abccccdd");
-            //int output = solution.LongestPalindrome("a");
-            //int output = solution.LongestPalindrome("ccc"); // 3
-            //int output = solution.LongestPalindrome("bananas"); // 5 (anana)
-            // 983
-            int output = solution.LongestPalindrome("civilwartestingwhetherthatnaptionoranynartionsoconceivedandsodedicatedcanlongendureWeareqmetonagreatbattlefiemldoftzhatwarWehavecometodedicpateaportionofthatfieldasafinalrestingplaceforthosewhoheregavetheirlivesthatthatnationmightliveItisaltogetherfangandproperthatweshoulddothisButinalargersensewecannotdedicatewecannotconsecratewecannothallowthisgroundThebravelmenlivinganddeadwhostruggledherehaveconsecrateditfaraboveourpoorponwertoaddordetractTgheworldadswfilllittlenotlenorlongrememberwhatwesayherebutitcanneverforgetwhattheydidhereItisforusthelivingrathertobededicatedheretotheulnfinishedworkwhichtheywhofoughtherehavethusfarsonoblyadvancedItisratherforustobeherededicatedtothegreattdafskremainingbeforeusthatfromthesehonoreddeadwetakeincreaseddevotiontothatcauseforwhichtheygavethelastpfullmeasureofdevotionthatweherehighlyresolvethatthesedeadshallnothavediedinvainthatthisnationunsderGodshallhaveanewbirthoffreedomandthatgovernmentofthepeoplebythepeopleforthepeopleshallnotperishfromtheearth");
-            Debug.Log(output);
         }
     }
 }

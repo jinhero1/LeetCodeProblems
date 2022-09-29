@@ -1,7 +1,7 @@
-using UnityEngine;
-
 namespace FindtheTownJudge
 {
+    // Runtime: 352 ms, faster than 68.59% of C# online submissions for Find the Town Judge.
+    // Memory Usage: 47.2 MB, less than 98.72% of C# online submissions for Find the Town Judge.
     public class Solution
     {
         private const int NOT_FOUND = -1;
@@ -45,63 +45,6 @@ namespace FindtheTownJudge
             }
 
             return NOT_FOUND;
-        }
-    }
-
-    public class FindtheTownJudge : MonoBehaviour
-    {
-        private void Start()
-        {
-            int n = 1;
-            int[][] trust = new int[][]
-            {
-            };
-            /*
-            int n = 2;
-            int[][] trust = new int[][]
-            {
-                new int[] { 1,2 },
-            };
-            */
-            /*
-            int n = 3;
-            int[][] trust = new int[][]
-            {
-                new int[] { 1,3 },
-                new int[] { 2,3 },
-            };
-            */
-            /*
-            int n = 3;
-            int[][] trust = new int[][]
-            {
-                new int[] { 1,2 },
-                new int[] { 2,3 },
-            };
-            */
-            /*
-            int n = 3;
-            int[][] trust = new int[][]
-            {
-                new int[] { 1,3 },
-                new int[] { 2,3 },
-                new int[] { 3,1 },
-            };
-            */
-            /*
-            int n = 4;
-            int[][] trust = new int[][]
-            {
-                new int[] { 1,3 },
-                new int[] { 1,4 },
-                new int[] { 2,3 },
-                new int[] { 2,4 },
-                new int[] { 4,3 },
-            };
-            */
-            Solution solution = new Solution();
-            int output = solution.FindJudge(n, trust);
-            Debug.Log($"Output: {output}");
         }
     }
 }

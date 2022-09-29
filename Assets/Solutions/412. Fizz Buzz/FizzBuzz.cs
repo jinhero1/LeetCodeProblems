@@ -1,9 +1,10 @@
 using System.Collections.Generic;
-using UnityEngine;
 
 namespace FizzBuzz
 {
-    internal class Solution
+    // Runtime: 156 ms, faster than 89.92% of C# online submissions for Fizz Buzz.
+    // Memory Usage: 46.8 MB, less than 93.40% of C# online submissions for Fizz Buzz.
+    public class Solution
     {
         private const string FIZZ = "Fizz";
         private const string BUZZ = "Buzz";
@@ -49,17 +50,6 @@ namespace FizzBuzz
             }
 
             return results;
-        }
-    }
-
-
-    public class FizzBuzz : MonoBehaviour
-    {
-        void Start()
-        {
-            Solution solution = new Solution();
-            IList<string> output = solution.FizzBuzz(30);
-            DebugUtility.Log(output);
         }
     }
 }

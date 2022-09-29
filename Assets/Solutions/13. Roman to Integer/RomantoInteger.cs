@@ -1,10 +1,11 @@
 using System.Collections.Generic;
 using System.Text;
-using UnityEngine;
 
 namespace RomantoInteger
 {
-    internal class Solution
+    // Runtime: 86 ms, faster than 83.15% of C# online submissions for Roman to Integer.
+    // Memory Usage: 36.8 MB, less than 77.15% of C# online submissions for Roman to Integer.
+    public class Solution
     {
         private readonly Dictionary<char, int> symbolValues = new Dictionary<char, int>
         {
@@ -54,18 +55,6 @@ namespace RomantoInteger
             }
 
             return sum;
-        }
-    }
-
-    public class RomantoInteger : MonoBehaviour
-    {
-        void Start()
-        {
-            Solution solution = new Solution();
-            //int output = solution.RomanToInt("III");
-            //int output = solution.RomanToInt("LVIII");
-            int output = solution.RomanToInt("MCMXCIV");
-            Debug.Log($"Output: {output}");
         }
     }
 }

@@ -1,11 +1,11 @@
 using System.Collections.Generic;
-using UnityEngine;
 
 namespace TwoSum
 {
     public class Solution
     {
         #region MemoryMinimization
+        // Memory Usage: 42.5 MB, less than 91.82% of C# online submissions for Two Sum.
         /*
         public int[] TwoSum(int[] nums, int target)
         {
@@ -37,6 +37,7 @@ namespace TwoSum
         */
         #endregion
         #region RuntimeFastest
+        // Runtime: 163 ms, faster than 92.78% of C# online submissions for Two Sum.
         public int[] TwoSum(int[] nums, int target)
         {
             Dictionary<int, int> pairs = new Dictionary<int, int>();
@@ -54,23 +55,5 @@ namespace TwoSum
             return null;
         }
         #endregion
-    }
-
-    public class TwoSum : MonoBehaviour
-    {
-        void Start()
-        {
-            Solution solution = new Solution();
-            //int[] nums = new int[] { 2, 7, 11, 15 };
-            //int target = 9;
-            //int[] nums = new int[] { 3, 2, 3 };
-            //int target = 6;
-            //int[] nums = new int[] { 3, 3 };
-            //int target = 6;
-            int[] nums = new int[] { 1, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 7, 1, 1, 1, 1, 1 };
-            int target = 11;
-            int[] output = solution.TwoSum(nums, target);
-            DebugUtility.Log(output);
-        }
     }
 }
