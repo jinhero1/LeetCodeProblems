@@ -1,5 +1,5 @@
 # [LeetCode](https://leetcode.com) Problems with C# Solution
-Facing various problems on LeetCode. Full test case implement with Unity Test Runner.
+Facing various problems on LeetCode. Full test case implemented with Unity Test Runner.
 
 ## Acceptance：76.4%
 |Easy|Medium|Hard|Total|
