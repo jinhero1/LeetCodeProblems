@@ -6,7 +6,7 @@ Facing various problems on LeetCode. Fully test case run with Unity Test Runner.
 
 ## [Solutions](./Assets/Solutions)
 |Title|Difficulty|Runtime Beats|Memory Beats|
-|:-|:-: | :-: | :-: |
+|:-|:-: | -: | -: |
 |1. Two Sum|Easy|92.78%|8.61%|
 |13. Roman to Integer|Easy|83.15%|77.15%|
 |35. Search Insert Position|Easy|12.98%|86.14%|
