@@ -15,6 +15,7 @@ Facing various problems on LeetCode. Fully test case run with Unity Test Runner.
 |100. Same Tree|Easy|86.85%|5.00%|
 |225. Implement Stack using Queues|Easy|51.60%|99.29%|
 |234. Palindrome Linked List|Easy|14.12%|80.88%|
+|257. Binary Tree Paths|Easy|15.53%|85.01%|
 |303. Range Sum Query - Immutable|Easy|97.17%|15.55%|
 |383. Ransom Note|Easy|96.90%|13.49%|
 |409. Longest Palindrome|Easy|58.64%|93.29%|
