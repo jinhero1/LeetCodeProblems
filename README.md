@@ -1,6 +1,9 @@
 # [LeetCode](https://leetcode.com) Problems with C# Solution
 Facing various problems on LeetCode. Fully test case run with Unity Test Runner.
 
+## [Solved Problems](https://leetcode.com/jinhero)
+![LeetCode Stats](https://leetcard.jacoblin.cool/jinhero?theme=light&font=Nunito)
+
 ## [Solutions](./Assets/Solutions)
 |Title|Difficulty|Runtime Beats|Memory Beats|
 |:-|:-: | :-: | :-: |
