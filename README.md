@@ -1,12 +1,7 @@
 # [LeetCode](https://leetcode.com) Problems with C# Solution
-Facing various problems on LeetCode. Full test case implemented with Unity Test Runner.
+Facing various problems on LeetCode. Fully test case run with Unity Test Runner.
 
-## Acceptance：76.4%
-|Easy|Medium|Hard|Total|
-|:--:|:--:|:--:|:--:|
-|15 / 595|0 / 1293|0 / 534|15 / 2422|
-
-## Problems
+## [Solutions](./Assets/Solutions)
 |Title|Difficulty|Runtime Beats|Memory Beats|
 |:-|:-: | :-: | :-: |
 |1. Two Sum|Easy|92.78%|8.61%|
@@ -24,3 +19,6 @@ Facing various problems on LeetCode. Full test case implemented with Unity Test 
 |997. Find the Town Judge|Easy|68.59%|98.72%|
 |1337. The K Weakest Rows in a Matrix|Easy|94.51%|12.72%|
 |1342. Number of Steps to Reduce a Number to Zero|Easy|81.46%|11.73%|
+
+## [Unit Testing](./Assets/UnitTests)
+Implement test cases through NUnit Framework.
