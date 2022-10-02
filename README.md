@@ -13,6 +13,7 @@ Face various problems on LeetCode. Thoroughly test cases run with Unity Test Run
 |70. Climbing Stairs|Easy|97.43%|6.35%|
 |94. Binary Tree Inorder Traversal|Easy|5.12%|96.35%|
 |100. Same Tree|Easy|86.85%|5.00%|
+|219. Contains Duplicate II|Easy|91.38%|75.05%|
 |225. Implement Stack using Queues|Easy|51.60%|99.29%|
 |234. Palindrome Linked List|Easy|14.12%|80.88%|
 |257. Binary Tree Paths|Easy|15.53%|85.01%|
