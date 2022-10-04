@@ -24,6 +24,7 @@ Face various problems on LeetCode. Thoroughly test cases run with Unity Test Run
 |997. Find the Town Judge|Easy|68.59%|98.72%|
 |1337. The K Weakest Rows in a Matrix|Easy|94.51%|12.72%|
 |1342. Number of Steps to Reduce a Number to Zero|Easy|81.46%|11.73%|
+|1971. Find if Path Exists in Graph|Easy|29.17%|91.49%|
 
 ## [Unit Testing](./Assets/UnitTests)
 Implement test cases through NUnit Framework.
