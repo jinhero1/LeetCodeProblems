@@ -30,3 +30,8 @@ Face various problems on LeetCode. Thoroughly test cases run with Unity Test Run
 
 ## [Unit Testing](./Assets/UnitTests)
 Implement test cases through NUnit Framework.
+
+## Premium Limited
+|Title|Difficulty|Topic|
+|:-|:-: |:-: |
+|1065. Index Pairs of a String|Easy|Trie|
