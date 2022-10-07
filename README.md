@@ -4,6 +4,9 @@ Face various problems on LeetCode. Thoroughly test cases run with Unity Test Run
 ## [Solved Problems](https://leetcode.com/jinhero)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/jinhero?theme=light&font=Nunito)
 
+## Challenge
+Offer a solution that Runtime can fast than 80% of C# online submissions or Memory Usage less than 80% of C# online submissions.
+
 ## [Solutions](./Assets/Solutions)
 |Title|Difficulty|Runtime Beats|Memory Beats|
 |:-|:-: | -: | -: |
