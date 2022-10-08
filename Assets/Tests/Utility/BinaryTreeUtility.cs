@@ -37,6 +37,13 @@ public class BinaryTreeUtility
                 output.Add(null);
                 continue;
             }
+            // No subtree
+            if (head.left == null && head.right == null)
+            {
+                output.Add(head.val);
+                continue;
+            }
+
             nodeQueue.Enqueue(head.left);
             nodeQueue.Enqueue(head.right);
 
