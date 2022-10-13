@@ -21,6 +21,7 @@ Offer a solution that Runtime can fast than 80% of C# online submissions or Memo
 |225. Implement Stack using Queues|Easy|51.60%|99.29%|
 |234. Palindrome Linked List|Easy|14.12%|80.88%|
 |257. Binary Tree Paths|Easy|15.53%|85.01%|
+|258. Add Digits|Easy|63.58%|97.40%|
 |292. Nim Game|Easy|19.51%|82.32%|
 |303. Range Sum Query - Immutable|Easy|97.17%|15.55%|
 |383. Ransom Note|Easy|96.90%|13.49%|
