@@ -30,6 +30,7 @@ Offer a solution that Runtime can fast than 80% of C# online submissions or Memo
 |412. Fizz Buzz|Easy|15.14%|93.40%|
 |496. Next Greater Element I|Easy|93.18%|7.44%|
 |572. Subtree of Another Tree|Easy|95.62%|11.93%|
+|703. Kth Largest Element in a Stream|Easy|83.95%|5.79%|
 |812. Largest Triangle Area|Easy|85.71%|14.29%|
 |997. Find the Town Judge|Easy|68.59%|98.72%|
 |1337. The K Weakest Rows in a Matrix|Easy|94.51%|12.72%|
