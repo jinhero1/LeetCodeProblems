@@ -34,6 +34,7 @@ Offer a solution that Runtime can fast than 80% of C# online submissions or Memo
 |703. Kth Largest Element in a Stream|Easy|83.95%|5.79%|
 |812. Largest Triangle Area|Easy|85.71%|14.29%|
 |997. Find the Town Judge|Easy|68.59%|98.72%|
+|1114. Print in Order|Easy|43.27%|87.02%|
 |1337. The K Weakest Rows in a Matrix|Easy|94.51%|12.72%|
 |1342. Number of Steps to Reduce a Number to Zero|Easy|81.46%|11.73%|
 |1534. Count Good Triplets|Easy|90.70%|9.30%|
