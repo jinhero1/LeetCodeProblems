@@ -41,6 +41,7 @@ Offer a solution that Runtime can fast than 80% of C# online submissions or Memo
 |1863. Sum of All Subset XOR Totals|Easy|100.00%|23.64%|
 |1971. Find if Path Exists in Graph|Easy|29.17%|91.49%|
 |2363. Merge Similar Items|Easy|29.46%|91.70%|
+|3477. Fruits Into Baskets II|Easy|100%|20.37%|
 
 ## [Unit Testing](./Assets/UnitTests)
 Implement test cases through NUnit Framework.
