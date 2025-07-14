@@ -51,4 +51,3 @@ Implement test cases through NUnit Framework.
 |Title|Difficulty|Topic|
 |:-|:-: |:-: |
 |604. Design Compressed String Iterator|Easy|Iterator|
-|1065. Index Pairs of a String|Easy|Trie|
