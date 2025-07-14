@@ -12,6 +12,7 @@ Offer a solution that Runtime can fast than 80% of C# online submissions or Memo
 |:-|:-: | -: | -: |
 |1. Two Sum|Easy|92.78%|8.61%|
 |13. Roman to Integer|Easy|83.15%|77.15%|
+|14. Longest Common Prefix|Easy|100.00%|93.55%|
 |35. Search Insert Position|Easy|12.98%|86.14%|
 |70. Climbing Stairs|Easy|97.43%|6.35%|
 |94. Binary Tree Inorder Traversal|Easy|5.12%|96.35%|
