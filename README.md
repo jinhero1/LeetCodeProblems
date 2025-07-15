@@ -44,6 +44,7 @@ Offer a solution that Runtime can fast than 80% of C# online submissions or Memo
 |2363. Merge Similar Items|Easy|29.46%|91.70%|
 |3042. Count Prefix and Suffix Pairs I|Easy|97.59%|91.57%|
 |3477. Fruits Into Baskets II|Easy|100.00%|20.37%|
+|3507. Minimum Pair Removal to Sort Array I|Easy|100.00%|79.07%|
 
 ## [Unit Testing](./Assets/UnitTests)
 Implement test cases through NUnit Framework.
