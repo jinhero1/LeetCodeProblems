@@ -31,6 +31,7 @@ Offer a solution that Runtime can fast than 80% of C# online submissions or Memo
 |412. Fizz Buzz|Easy|15.14%|93.40%|
 |496. Next Greater Element I|Easy|93.18%|7.44%|
 |543. Diameter of Binary Tree|Easy|96.25%|7.85%|
+|561. Array Partition|Easy|98.68%|7.05%|
 |572. Subtree of Another Tree|Easy|95.62%|11.93%|
 |703. Kth Largest Element in a Stream|Easy|83.95%|5.79%|
 |812. Largest Triangle Area|Easy|85.71%|14.29%|
