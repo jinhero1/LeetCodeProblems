@@ -20,6 +20,7 @@ Offer a solution that Runtime can fast than 80% of C# online submissions or Memo
 |108. Convert Sorted Array to Binary Search Tree|Easy|77.31%|83.16%|
 |148. Sort List|Medium|94.74%|89.21%|
 |207. Course Schedule|Medium|90.94%|98.81%|
+|215. Kth Largest Element in an Array|Medium|97.71%|21.18%|
 |219. Contains Duplicate II|Easy|91.38%|75.05%|
 |225. Implement Stack using Queues|Easy|51.60%|99.29%|
 |234. Palindrome Linked List|Easy|14.12%|80.88%|
