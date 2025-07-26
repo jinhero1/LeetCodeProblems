@@ -35,6 +35,7 @@ Offer a solution that Runtime can fast than 80% of C# online submissions or Memo
 |409. Longest Palindrome|Easy|58.64%|93.29%|
 |412. Fizz Buzz|Easy|15.14%|93.40%|
 |464. Can I Win|Medium|100.00%|100.00%|
+|470. Implement Rand10() Using Rand7()|Medium|58.97%|97.44%|
 |496. Next Greater Element I|Easy|93.18%|7.44%|
 |543. Diameter of Binary Tree|Easy|96.25%|7.85%|
 |561. Array Partition|Easy|98.68%|7.05%|
