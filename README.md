@@ -63,3 +63,4 @@ Implement test cases through NUnit Framework.
 |Title|Difficulty|Topic|
 |:-|:-: |:-: |
 |604. Design Compressed String Iterator|Easy|Iterator|
+|1062. Longest Repeating Substring|Medium|Suffix Array|
