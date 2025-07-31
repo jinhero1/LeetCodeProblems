@@ -50,6 +50,7 @@ Offer a solution that Runtime can fast than 80% of C# online submissions or Memo
 |1337. The K Weakest Rows in a Matrix|Easy|94.51%|12.72%|
 |1342. Number of Steps to Reduce a Number to Zero|Easy|81.46%|11.73%|
 |1534. Count Good Triplets|Easy|90.70%|9.30%|
+|1584. Min Cost to Connect All Points|Medium|97.89%|99.30%|
 |1863. Sum of All Subset XOR Totals|Easy|100.00%|23.64%|
 |1971. Find if Path Exists in Graph|Easy|29.17%|91.49%|
 |2363. Merge Similar Items|Easy|29.46%|91.70%|
