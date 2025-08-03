@@ -32,6 +32,7 @@ Offer a solution that Runtime can fast than 80% of C# online submissions or Memo
 |303. Range Sum Query - Immutable|Easy|97.17%|15.55%|
 |307. Range Sum Query - Mutable|Medium|90.74%|92.59%|
 |380. Insert Delete GetRandom O(1)|Medium|85.02%|62.94%|
+|382. Linked List Random Node|Medium|25.00%|94.44%|
 |383. Ransom Note|Easy|96.90%|13.49%|
 |399. Evaluate Division|Medium|94.65%|27.42%|
 |409. Longest Palindrome|Easy|58.64%|93.29%|
