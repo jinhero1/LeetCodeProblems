@@ -51,6 +51,7 @@ Offer a solution that Runtime can fast than 80% of C# online submissions or Memo
 |1114. Print in Order|Easy|43.27%|87.02%|
 |1337. The K Weakest Rows in a Matrix|Easy|94.51%|12.72%|
 |1342. Number of Steps to Reduce a Number to Zero|Easy|81.46%|11.73%|
+|1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree|Hard|100.00%|100.00%|
 |1534. Count Good Triplets|Easy|90.70%|9.30%|
 |1584. Min Cost to Connect All Points|Medium|97.89%|99.30%|
 |1863. Sum of All Subset XOR Totals|Easy|100.00%|23.64%|
