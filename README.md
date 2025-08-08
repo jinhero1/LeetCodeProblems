@@ -50,6 +50,7 @@ Offer a solution that Runtime can fast than 80% of C# online submissions or Memo
 |986. Interval List Intersections|Medium|93.60%|39.90%|
 |997. Find the Town Judge|Easy|68.59%|98.72%|
 |1114. Print in Order|Easy|43.27%|87.02%|
+|1192. Critical Connections in a Network|Hard|95.45%|70.45%|
 |1337. The K Weakest Rows in a Matrix|Easy|94.51%|12.72%|
 |1342. Number of Steps to Reduce a Number to Zero|Easy|81.46%|11.73%|
 |1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree|Hard|100.00%|100.00%|
