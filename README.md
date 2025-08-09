@@ -49,6 +49,7 @@ Offer a solution that Runtime can fast than 80% of C# online submissions or Memo
 |918. Maximum Sum Circular Subarray|Medium|100.00%|79.75%|
 |986. Interval List Intersections|Medium|93.60%|39.90%|
 |997. Find the Town Judge|Easy|68.59%|98.72%|
+|1044. Longest Duplicate Substring|Hard|100.00%|50.00%|
 |1114. Print in Order|Easy|43.27%|87.02%|
 |1192. Critical Connections in a Network|Hard|95.45%|70.45%|
 |1337. The K Weakest Rows in a Matrix|Easy|94.51%|12.72%|
