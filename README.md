@@ -45,6 +45,7 @@ Offer a solution that Runtime can fast than 80% of C# online submissions or Memo
 |561. Array Partition|Easy|98.68%|7.05%|
 |572. Subtree of Another Tree|Easy|95.62%|11.93%|
 |594. Longest Harmonious Subsequence|Easy|94.75%|35.65%|
+|643. Maximum Average Subarray I|Easy|100.00%|52.43%|
 |703. Kth Largest Element in a Stream|Easy|83.95%|5.79%|
 |812. Largest Triangle Area|Easy|85.71%|14.29%|
 |918. Maximum Sum Circular Subarray|Medium|100.00%|79.75%|
