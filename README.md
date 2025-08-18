@@ -59,6 +59,7 @@ Offer a solution that Runtime can fast than 80% of C# online submissions or Memo
 |1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree|Hard|100.00%|100.00%|
 |1534. Count Good Triplets|Easy|90.70%|9.30%|
 |1584. Min Cost to Connect All Points|Medium|97.89%|99.30%|
+|1652. Defuse the Bomb|Easy|100.00%|49.17%|
 |1863. Sum of All Subset XOR Totals|Easy|100.00%|23.64%|
 |1971. Find if Path Exists in Graph|Easy|29.17%|91.49%|
 |2363. Merge Similar Items|Easy|29.46%|91.70%|
