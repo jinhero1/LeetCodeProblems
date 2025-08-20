@@ -11,6 +11,7 @@ Offer a solution that Runtime can fast than 80% of C# online submissions or Memo
 |Title|Difficulty|Runtime Beats|Memory Beats|
 |:-|:-: | -: | -: |
 |1. Two Sum|Easy|92.78%|8.61%|
+|3. Longest Substring Without Repeating Characters|Medium|98.39%|62.56%|
 |13. Roman to Integer|Easy|83.15%|77.15%|
 |14. Longest Common Prefix|Easy|100.00%|93.55%|
 |35. Search Insert Position|Easy|12.98%|86.14%|
